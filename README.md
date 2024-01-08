@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jumpingdino&color=36b812)<br>
+
 ### Hi there Stranger👋
 
 I'm Rafael Saraiva, a brazilian data science currently located in Berlin.
